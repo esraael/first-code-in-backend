@@ -1,0 +1,5 @@
+[{"id":1,"fname":"esraa","lname":"elsayed","age":22,"city":"mansoura"},
+{"id":3,"fname":"medhat","lname":"gamal","age":25,"city":"elmahala"},
+{"id":5,"fname":"adam","lname":"medhat","age":10,"city":"cairo"},
+{"id":7,"fname":"jory","lname":"medhat","age":7,"city":"cairo"},
+{"id":9,"fname":"jody","lname":"medhat","age":4,"city":"cairo"}]
